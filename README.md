@@ -1,11 +1,12 @@
 # Survival in mosters
 <p align="center">
-  <kbd>
-    <video width="640" height="360" controls>
-      <source src="preview.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </kbd>
+  <a href="https://raw.githubusercontent.com/xbabas55/survival-in-monsters/main/preview.mp4">
+    <img src="https://img.shields.io/badge/📹-Watch%20Preview%20Video-blue?style=for-the-badge&logo=video" alt="Preview Video"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/xbabas55/survival-in-monsters/main/preview.mp4">🎬 Click here to watch the preview video</a>
 </p>
 
 ## About
