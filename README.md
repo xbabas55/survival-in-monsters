@@ -1,12 +1,6 @@
 # Survival in mosters
 <p align="center">
-  <a href="https://raw.githubusercontent.com/xbabas55/survival-in-monsters/main/preview.mp4">
-    <img src="https://img.shields.io/badge/📹-Watch%20Preview%20Video-blue?style=for-the-badge&logo=video" alt="Preview Video"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/xbabas55/survival-in-monsters/main/preview.mp4">🎬 Click here to watch the preview video</a>
+  <img src="preview.gif" alt="Game Preview" width="640"/>
 </p>
 
 ## About
