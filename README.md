@@ -1,4 +1,4 @@
-# Survival in mostersClone
+# Survival in mosters
 <p align="center">
   <kbd>
     <!-- <img src="https://github.com/matthiasbroske/Survival in mostersClone/assets/82914350/03974781-70b2-45ed-bbd6-7148efcebbd7" alt="Demo"/> -->
@@ -30,6 +30,6 @@ A  inspired mobile game built from scratch in Unity.
 
 ## Credit
 ### Developer
-- [Kaito](https://www.kaito.games)content/gold-treasure-icons-16x16)
+- [Kaito](https://www.kaito.games)
 ### Fonts
 - [Noto Sans CJK TC](https://fonts.google.com/noto/specimen/Noto+Sans+TC/about)
