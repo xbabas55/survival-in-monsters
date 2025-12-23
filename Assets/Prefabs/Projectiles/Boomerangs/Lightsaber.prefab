@@ -16,7 +16,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2506319959607698752
 Transform:
   m_ObjectHideFlags: 0
@@ -74,7 +74,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 0.2
+  m_Time: 0.4
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 0.25
@@ -104,7 +104,7 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 1, b: 1, a: 0.67058825}
+      key0: {r: 0.13725491, g: 0.8352942, b: 0.95294124, a: 0.67058825}
       key1: {r: 0.7028302, g: 0.8284293, b: 1, a: 0}
       key2: {r: 0.0068084607, g: 0.3477969, b: 0.4811321, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
@@ -137,7 +137,7 @@ TrailRenderer:
     textureMode: 0
     shadowBias: 0.5
     generateLightingData: 0
-  m_MinVertexDistance: 0.02
+  m_MinVertexDistance: 0.5
   m_Autodestruct: 0
   m_Emitting: 1
 --- !u!1 &7669521032070789568
@@ -341,7 +341,7 @@ Transform:
   m_GameObject: {fileID: 7721683133008659187}
   m_LocalRotation: {x: -0, y: 0, z: -0.99684846, w: -0.07932908}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2506319959607698752}
